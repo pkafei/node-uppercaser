@@ -1,0 +1,14 @@
+{
+  "name": "uppercaser",
+  "version": "1.0.0",
+  "description": "CLI tool that capitalizes arguments",
+  "main": "index.js",
+  "bin" : {
+    "uppercaser": "bin.js"
+    },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Portia Burton",
+  "license": "ISC"
+}
